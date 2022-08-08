@@ -10,6 +10,10 @@ Contains basic configuration to get you a site with:
 - Sample footer links.
 - Paginated home page.
 - Archive pages for posts grouped by year, category, and tag.
+
+https://user-images.githubusercontent.com/15525271/183439849-06acdfb4-6a98-475b-a382-d0d740009440.mov
+
+
 - Sample about page.
 - Sample 404 page.
 - Site wide search.
